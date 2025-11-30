@@ -5,7 +5,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/PuWenyin/fetch-news-mcp.git",
+        "https://github.com/yusiyu0817-dotcom/fetch-news-mcp",
         "fetch-news" 
       ],
       "env": {
